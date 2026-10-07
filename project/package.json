@@ -1,0 +1,10 @@
+{
+  "name": "microsoft-login-clone",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "preview": "npx http-server . -p 4173"
+  }
+}
